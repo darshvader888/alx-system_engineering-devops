@@ -22,3 +22,4 @@ script that reverse its input
 script that displays all users and their home directories sorted by users
 script for confused smiley
 write  a script that displays a confused smiley
+script that displays a confused smiley
